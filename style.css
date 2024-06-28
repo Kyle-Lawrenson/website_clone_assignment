@@ -65,6 +65,13 @@ p, .text_container, h4 {
     width: 30%;
     justify-content: space-around;
 }
+
+.search, .shop{
+    background-image: "./images/search.jpg", "./images/shop.jpg";
+    opacity: 0.4;
+    
+}
+
 .main {
     border: 1px solid white;
     display: flex;
