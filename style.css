@@ -82,5 +82,6 @@ p, .text_container, h4 {
 .footer{
     border: 1px solid orange;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    width: 60%
 }
