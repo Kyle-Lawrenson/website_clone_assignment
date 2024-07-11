@@ -14,7 +14,7 @@ p, .text_container, h4 {
     }
 
 .text_container {
-    border: 1px solid greenyellow;
+    /* border: 1px solid greenyellow; */
     display: flex;
     text-align: left;
     flex-direction: column;
@@ -26,7 +26,7 @@ p, .text_container, h4 {
 }
 
 .logo {
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     display: flex;
     width: 45%;
     justify-content: space-around;
@@ -40,7 +40,7 @@ p, .text_container, h4 {
 }
 
 .nav {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -49,7 +49,7 @@ p, .text_container, h4 {
 }
 
 .nav_l {
-    border: 1px solid rgb(138, 138, 242);
+    /* border: 1px solid rgb(138, 138, 242); */
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -61,7 +61,7 @@ p, .text_container, h4 {
 
 
 .nav_r {
-    border: 1px solid hotpink;
+    /* border: 1px solid hotpink; */
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -76,14 +76,14 @@ p, .text_container, h4 {
 }
 
 .main {
-    border: 1px solid white;
+    /* border: 1px solid white; */
     display: flex;
 
     
 }
 
 .footer{
-    border: 1px solid orange;
+    /* border: 1px solid orange; */
     display: flex;
     justify-content: space-between;
     width: 60%
