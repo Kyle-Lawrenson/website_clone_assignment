@@ -1,17 +1,22 @@
-* {background-color:black} 
+* {
+    background-color: black
+}
 
-.link_text {color: #2FA6EE;}
+.link_text {
+    color: #2FA6EE;
+}
 
-p, .text_container, h4 {
+p,
+.text_container,
+h4 {
     color: #fff;
 }
 
-.body
-    {
+.body {
     font-family: "Segoe UI", "SegoeUI", "Helvetica Neue", Helvetica, Arial, sans-serif;
     min-width: 310px;
     font-size: 15px;
-    }
+}
 
 .text_container {
     /* border: 1px solid greenyellow; */
@@ -20,9 +25,6 @@ p, .text_container, h4 {
     flex-direction: column;
     justify-content: space-around;
     width: 35%
-    
-    
-    
 }
 
 .logo {
@@ -45,7 +47,7 @@ p, .text_container, h4 {
     flex-direction: row;
     justify-content: space-between;
 
-    
+
 }
 
 .nav_l {
@@ -69,20 +71,21 @@ p, .text_container, h4 {
     justify-content: space-around;
 }
 
-.search, .shop{
+.search,
+.shop {
     background-image: "./images/search.jpg", "./images/shop.jpg";
     opacity: 0.4;
-    
+
 }
 
 .main {
     /* border: 1px solid white; */
     display: flex;
 
-    
+
 }
 
-.footer{
+.footer {
     /* border: 1px solid orange; */
     display: flex;
     justify-content: space-between;
